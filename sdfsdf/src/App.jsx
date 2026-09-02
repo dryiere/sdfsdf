@@ -9,9 +9,9 @@ function App() {
 
   return (
     <>
-      aye
     </>
   )
 }
 
 export default App
+
